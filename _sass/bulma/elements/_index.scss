@@ -1,16 +1,16 @@
 /* Bulma Elements */
 @charset "utf-8";
 
-@import "block";
-@import "box";
-@import "button";
-@import "content";
-@import "delete";
-@import "icon";
-@import "image";
-@import "loader";
-@import "notification";
-@import "progress";
-@import "table";
-@import "tag";
-@import "title";
+@forward "block";
+@forward "box";
+@forward "button";
+@forward "content";
+@forward "delete";
+@forward "icon";
+@forward "image";
+@forward "loader";
+@forward "notification";
+@forward "progress";
+@forward "table";
+@forward "tag";
+@forward "title";
